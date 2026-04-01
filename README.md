@@ -32,7 +32,7 @@
 <div style="text-align: left; margin-bottom: 20px;">
     <ul style="list-style-type: disc; line-height: 1.6;">
         <li>
-            <i>Leets</i> - 우수 프로젝트 <a href="https://github.com/Leets-Official/LOOPIT-BE">LOOPIT</a> <sub>(2026.02, Server Lead)</sub>
+            <i>Leets</i> - 최우수 프로젝트 <a href="https://github.com/Leets-Official/LOOPIT-BE">LOOPIT</a> <sub>(2026.02, Server Lead)</sub>
         </li>
     </ul>
 </div>

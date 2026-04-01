@@ -24,8 +24,8 @@
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🌟 Experiences </h2>
 <div style="text-align: left;">
     <ul style="list-style-type: disc; line-height: 1.6;">
-        <li>Leets (2025.09 ~ 2026.02)</li>
-        <li>SOPT (2026.03 ~ )</li>
+        <li><i>Leets</i> (2025.09 ~ 2026.02)</li>
+        <li><i>SOPT</i> (2026.03 ~ )</li>
     </ul>
 </div>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🏆 Awards </h2>

@@ -44,6 +44,11 @@
     </ul>
 </div>
 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🚀 LeetCode Stats </h2>
+<div style="text-align: left; margin-bottom: 20px;">
+    <img src="https://leetcard.jacoblin.cool/gichanGim?ext=heatmap" alt="LeetCode Heatmap" />
+</div>
+
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;">👋🏻 Contact Me </h2>
 <div style="text-align: left; margin-bottom: 20px;">
     <a href="k.kychan2003@gmail.com">

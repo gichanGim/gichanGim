@@ -3,7 +3,8 @@
     </div>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 📚 I'm studying </h2>
 <div style="text-align: left; margin-bottom: 20px;">
-    
+
+<!-- test -->    
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)</br></br>

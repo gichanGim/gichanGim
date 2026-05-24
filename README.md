@@ -51,9 +51,3 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 </div>
-
-
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🚀 LeetCode Stats </h2>
-<div style="text-align: left; margin-bottom: 20px;">
-    <img src="https://leetcard.jacoblin.cool/gichanGim?ext=heatmap" alt="LeetCode Heatmap" />
-</div>

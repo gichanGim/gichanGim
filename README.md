@@ -20,7 +20,6 @@
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🌟 Experiences </h2>

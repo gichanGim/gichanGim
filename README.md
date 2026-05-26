@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://github.com/loosie/github-readme-tistory-card" target="https://kkyc6127.tistory.com/">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark" alt="Tistory's Badge">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark" alt="Tistory's Badge" height="20">
     </a>
 </div>
 

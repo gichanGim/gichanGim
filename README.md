@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://kkyc6127.tistory.com/" target="_blank">
-        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark" alt="Tistory's Badge" height="20">
+        <img src="https://camo.githubusercontent.com/206ba1a038f42cbb0a21df9488c57d3627b5bbfae94987316f509dcb6b55eb4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;">
     </a>
 </div>
 

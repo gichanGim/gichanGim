@@ -47,11 +47,11 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;">👋🏻 Contact Me </h2>
 <div style="text-align: left; margin-bottom: 20px;">
-    <a href="mailto:k.kychan2003@gmail.com" style="margin-right: 5px;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
     <a href="https://kkyc6127.tistory.com/" target="_blank">
         <img src="https://camo.githubusercontent.com/206ba1a038f42cbb0a21df9488c57d3627b5bbfae94987316f509dcb6b55eb4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546973746f72792d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+    <a href="mailto:k.kychan2003@gmail.com" style="margin-right: 5px;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
     </a>
 </div>
 

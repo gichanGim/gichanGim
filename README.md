@@ -43,7 +43,10 @@
     <ul style="list-style-type: disc; line-height: 1.6;">
         <li>
             <a href="https://github.com/spring-projects/spring-boot/pull/50792">
-                <img src="https://img.shields.io/badge/Spring_Boot-PR_%2350792-green" alt="Spring Boot PR" />
+                <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot" />
+            </a>
+            <a href="https://github.com/spring-projects/spring-boot/pull/50792">
+                <img src="https://img.shields.io/github/pulls/detail/state/spring-projects/spring-boot/50877?logo=github" alt="PR state" />
             </a>
         </li>
     </ul>

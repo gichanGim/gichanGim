@@ -38,6 +38,17 @@
     </ul>
 </div>
 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🌱 Open Source Contributions </h2>
+<div style="text-align: left; margin-bottom: 20px;">
+    <ul style="list-style-type: disc; line-height: 1.6;">
+        <li>
+            <a href="https://github.com/spring-projects/spring-boot/pull/50792">
+                <img src="https://img.shields.io/badge/Spring_Boot-PR_%2350792-green" alt="Spring Boot PR" />
+            </a>
+        </li>
+    </ul>
+</div>
+
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; margin-bottom: 10px;"> 🪪 Certification </h2>
 <div style="text-align: left; margin-bottom: 20px;">
     <ul style="list-style-type: disc; line-height: 1.6;">
